@@ -1,0 +1,14 @@
+numpy
+Pillow
+opencv-python
+matplotlib
+scipy
+scikit-image
+tqdm
+PyYAML
+click
+fastapi
+uvicorn
+python-multipart
+requests
+gdown
