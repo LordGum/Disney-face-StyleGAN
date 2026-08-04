@@ -11,7 +11,7 @@ The pipeline performs image inversion into the latent space, applies style-guide
 ### Disney Style Transfer
 
 <p align="center">
-  <img src="images/Disney style train.png" width="900">
+  <img src="images/Disney style train.png" width="300">
 </p>
 
 ### Alignment
