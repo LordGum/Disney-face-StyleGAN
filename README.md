@@ -4,7 +4,6 @@ A Computer Vision project that transforms real human portraits into the **Disney
 
 The pipeline performs image inversion into the latent space, applies style-guided latent manipulation, and generates stylized portraits while preserving facial identity.
 
----
 
 ## Results
 
@@ -29,9 +28,6 @@ The pipeline performs image inversion into the latent space, applies style-guide
   <img src="images/result.png" width="900">
 </p>
 
-
----
-
 ## Pipeline
 
 <p align="center">
@@ -44,7 +40,6 @@ The workflow consists of three main stages:
 2. **Style Transfer** – apply **StyleGAN-NADA** guided by **CLIP** to shift the latent representation toward the Disney domain.
 3. **Image Generation** – synthesize a stylized portrait while preserving the person's identity.
 
----
 
 ## Technologies
 
@@ -55,7 +50,6 @@ The workflow consists of three main stages:
 * encoder4editing (e4e)
 * CLIP
 
----
 
 ## Acknowledgements
 
