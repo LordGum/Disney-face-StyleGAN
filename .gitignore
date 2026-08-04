@@ -21,10 +21,6 @@ logs/
 checkpoints/*.pth
 checkpoints/*.pt
 
-# Except these pretrained weights
-!checkpoints/disney_stylegan_nada.pt
-!checkpoints/e4e_ffhq_encode.pt
-
 # clone repositories by setup.sh
 third_party/encoder4editing
 third_party/stylegan2-pytorch
