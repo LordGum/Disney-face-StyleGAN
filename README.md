@@ -16,12 +16,12 @@ The pipeline performs image inversion into the latent space, applies style-guide
 
 ### Alignment
 <p align="center">
-  <img src="images/alignment.png" width="900">
+  <img src="images/alignment.png" width="600">
 </p>
 
 ### Inversion
 <p align="center">
-  <img src="images/inversion.png" width="900">
+  <img src="images/inversion.png" width="600">
 </p>
 
 ### Result
